@@ -1,6 +1,7 @@
 {
   "extends": "airbnb",
   "rules": {
-    "react/prefer-stateless-function": 1
+    "react/prefer-stateless-function": 1,
+    comma-dangle: 0
   }
 }
